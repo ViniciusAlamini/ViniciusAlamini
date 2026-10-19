@@ -1,63 +1,88 @@
 <div align="center">
-  <img src="https://profile-counter.glitch.me/ViniciusAlamini/count.svg?"  />
-</div>
 
-###
 
 <div align="center">
-  <img height="350" src="https://steamuserimages-a.akamaihd.net/ugc/945094571616867748/680E4979CC75A2310664E0883F3F3FC6CBECA3BE/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false"  />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&amp;height=210&amp;color=0:0D1117,50:172554,100:6D28D9&amp;text=Vinicius%20Alamini&amp;fontColor=FFFFFF&amp;fontSize=43&amp;fontAlignY=38&amp;desc=Full%20Stack%20Developer%20%7C%20CSharp%20and%20.NET%20%7C%20APIs%20and%20Databases&amp;descSize=16&amp;descAlignY=59"
+    alt="Vinicius Alamini"
+    width="100%"
+  />
 </div>
 
-###
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniciusalamini/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ViniciusAlamini)
 
-<p align="left"><h1>👨‍💻Sobre mim👨‍💻</h1><br>- Cursando Análise e Desenvolvimento de Sistemas<br>- Desenvolvedor fullstack<br>- No meu tempo livre estudo novas tecnologias e jogo RPG de mesa.</p>
-
-###
-
-<h1 align="left">💻 Tecnologias💻</h1>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="40" alt="oracle logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
-###
+## 👨‍💻 Sobre mim
 
-<h1 align="left">📬Contato📬</h1>
+Sou **desenvolvedor Full Stack**, com foco em **C# e .NET**, desenvolvimento de **APIs REST**, integração de sistemas e bancos de dados relacionais.
 
-###
+Atuo com soluções de gestão empresarial (ERP), trabalhando com regras de negócio, desempenho de consultas, migração de dados e evolução de sistemas. Gosto de transformar problemas complexos em soluções práticas, confiáveis e de fácil manutenção.
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/vinicius-alamini-59a50b227/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
+- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**.
+- 🛠️ Experiência com **ASP.NET Core, SQL Server, PostgreSQL** e desenvolvimento web.
+- 📈 Interesse em **arquitetura de software, otimização de performance e automação**.
+- 🎲 Fora do código, gosto de estudar novas tecnologias e jogar **RPG de mesa**.
+
+## 🧰 Stack e ferramentas
+
+**Back-end**
+
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-334155?style=for-the-badge&logo=swagger&logoColor=white)
+
+**Front-end**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
+
+**Bancos de dados**
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+**Ferramentas**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
+
+## 🚀 Áreas de atuação
+
+- **Desenvolvimento de APIs:** criação e manutenção de endpoints, integrações e regras de negócio com ASP.NET Core.
+- **Sistemas ERP:** evolução de módulos financeiros, comerciais e de gestão.
+- **Bancos de dados:** modelagem relacional, consultas SQL, procedures e otimização de desempenho.
+- **Migração e integração de dados:** transformação, validação e conciliação entre sistemas.
+- **Qualidade e manutenção:** investigação de problemas, refatoração e melhoria contínua.
+
+## 📊 GitHub em números
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ViniciusAlamini&theme=tokyonight" alt="Atividade no GitHub" width="95%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ViniciusAlamini&theme=tokyonight" alt="Estatísticas GitHub" width="46%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ViniciusAlamini&theme=tokyonight&exclude=html" alt="Linguagens nos repositórios" width="46%" />
+
 </div>
 
-###
+<sub>Os indicadores consideram a atividade pública disponível no GitHub e podem não representar trabalhos realizados em repositórios privados.</sub>
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ViniciusAlamini&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ViniciusAlamini&hide=Html&theme=tokyonight) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ViniciusAlamini&theme=tokyonight) |
-| :-: | :-: | :-: |
+## 🤝 Vamos nos conectar?
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ViniciusAlamini&theme=tokyonight) | ![](https://github-readme-streak-stats.herokuapp.com/?user=ViniciusAlamini&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=1A1B27&stroke=35AFA3&ring=BF91F3&fire=BF91F3&currStreakNum=BF91F3&sideNums=BF91F3&currStreakLabel=BF91F3&sideLabels=BF91F3&dates=35AFA3) |
-| :-: | :-: |
+Estou sempre aberto a trocar ideias sobre desenvolvimento de software, arquitetura, performance e projetos interessantes.
+
+[![LinkedIn](https://img.shields.io/badge/Entre_em_contato_pelo_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniciusalamini/)
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=100&color=0:0D1117,50:172554,100:6D28D9" alt="Rodapé decorativo" width="100%" />
+
+</div>
